@@ -1,1 +1,1 @@
-Simple expression parsers made for language practicing purposes.
+Simple expression evaluators made for language practicing purposes.
